@@ -1,2 +1,3 @@
 # character-recognition-62-classes-
 this uses transfer learning ....
+the above model shows an accuracy of 92% with just 22 epochs of trainning and a testing accuracy of 88%.The model used in the above model is the VGGNet model which was used for classifying 1000 classes of animals.It is astonishing that the weights of the higher layer can still be used for our task.
